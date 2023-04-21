@@ -1,7 +1,6 @@
 let age: string = "20"
 let agmonths: number = 20
 let isSenior: boolean = false
-let person: Object = {}
 
 let fruits: string[] = ["hola","como estas?"]
 
